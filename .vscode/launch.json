@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Sds3Application<sds3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.sds3.sds3.Sds3Application",
+            "projectName": "sds3",
+            "args": ""
+        }
+    ]
+}

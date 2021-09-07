@@ -3,13 +3,12 @@ yarn -v
 
 npx create-react-app frontend --template typescript
 
-Spring Initializr
+Spring Initializr (maven project, java, 2.5, group: nome da empresa, name: nome do projeto, packaging:Jar, Java:11 )
 com as dependencias
-Web
-JPA
-H2
-Postgres
+Spring Web
+Spring Data JPA (biblioteca para acessar os dados do BD)
+H2 database 
+PostgreSQL Driver 
 Security
-
 
 yarn start para iniciar front end
