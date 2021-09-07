@@ -2,3 +2,14 @@ npm install --global yarn
 yarn -v
 
 npx create-react-app frontend --template typescript
+
+Spring Initializr
+com as dependencias
+Web
+JPA
+H2
+Postgres
+Security
+
+
+yarn start para iniciar front end
