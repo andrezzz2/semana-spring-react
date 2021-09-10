@@ -1,13 +1,13 @@
-package com.sds3.sds3;
+package com.andre.dsvendas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Sds3Application {
+public class DsvendasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Sds3Application.class, args);
+		SpringApplication.run(DsvendasApplication.class, args);
 	}
 
 }
