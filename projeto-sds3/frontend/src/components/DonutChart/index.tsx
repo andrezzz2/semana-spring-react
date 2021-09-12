@@ -20,7 +20,6 @@ function DonutChart(){
             const mySeries = data.map(x => x.sum);
     
             setChartData({labels: myLabels, series:mySeries});
-            console.log(chartData);
         });
     }, []);
 
